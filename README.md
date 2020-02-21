@@ -8,3 +8,6 @@ pip install -U pytest
 ```
 pytest --version
 ```
+
+## Usage of assert statement
+https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
